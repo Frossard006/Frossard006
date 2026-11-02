@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Matheus and...
 
-- 💻 I’m currently working with **Flutter (Android & iOS)**, **MySQL**, **REST API**, **Git** and **PHP**
+- 💻 I’m currently working with **Flutter (Android & iOS)**, **PHP**, **MySQL**, **REST API**, and **Git** 
 
 - 🌱 I've worked on personal projects with **C# (2D game development)** and **Go**
 
